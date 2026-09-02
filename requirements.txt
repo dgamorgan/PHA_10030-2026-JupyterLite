@@ -1,3 +1,4 @@
 jupyterlite-core
 jupyterlite-pyodide-kernel
 jupyterlab~=4.2
+nbconvert
